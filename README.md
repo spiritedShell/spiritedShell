@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/spiritedShell/spiritedShell/blob/main/ghostly%20assets/760cfa43-1463-4697-9606-02ce7ec236c1.png?raw=true" alt="cyberpunk banner with kodama, cat and neon city" width="100%">
+</p>
+
+
 # 👻 GhostInTheScript
 
 Software Developer in Progress

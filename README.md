@@ -5,7 +5,22 @@ Software Developer in Progress
 Building intuitive software for humans, ghosts and other mysterious beings.  
 One exception at a time.
 
----
+
+## 💾 Tech Stack
+
+C# • .NET • Entity Framework Core • SQL  
+Python • JavaScript • HTML • CSS  
+XML • Git • GitHub • Kanban  
+Rider • PyCharm • VS Code
+
+
+## 🌲 Currently Building
+
+🚀 EN-16931 E-Invoice Module Showcase  
+👾 Space Invaders  
+🐍 Python Projects  
+🗄️ SQL Projects
+
 
 ## 🏮 Character Sheet
 
@@ -49,25 +64,7 @@ loot:
 + a bag of snacks
 + my Sleep Token playlist
 
----
 
-## 💾 Tech Stack
-
-C# • .NET • Entity Framework Core • SQL  
-Python • JavaScript • HTML • CSS  
-XML • Git • GitHub • Kanban  
-Rider • PyCharm • VS Code
-
----
-
-## 🌲 Currently Building
-
-🚀 EN-16931 E-Invoice Module Showcase  
-👾 Space Invaders  
-🐍 Python Projects  
-🗄️ SQL Projects
-
----
 
 ## 🏮 Somewhere Between
 
@@ -79,6 +76,3 @@ Rider • PyCharm • VS Code
 🌺 The Nine Valleys
 🐈 The Pet Sematary
 
----
-
-> The forest watches in silence. So do I. And so does the code.

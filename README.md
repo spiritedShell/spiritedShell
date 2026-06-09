@@ -1,16 +1,84 @@
-## Hi there 👋
+# 👻 GhostInTheScript
 
-<!--
-**spiritedShell/spiritedShell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer in Progress
 
-Here are some ideas to get you started:
+Building intuitive software for humans, ghosts and other mysterious beings.  
+One exception at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏮 Character Sheet
+
+class: Software Developer
+subclass: UX Enthusiast
+alignment: Chaotic Neutral
+favorite potion: strong black tea
+origin: somewhere between neo tokyo & the shire
+
+strengths:
++ accessibility
++ user empathy
++ learning fast
++ questioning ancient structures, not only in dungeons
+
+weaknesses:
+- side quests and other distractions
+- forgetting why i opened this tab
+- forgetting why i entered a room
+- forgetting why tf i'm doing this...
+
+resistances:
++ mansplaining
++ corporate buzzwords
++ toxic workspaces
++ dark patterns
+
+vulnerabilities:
+- fantasy bookstores
+- steam sales
+- animal shelters
+- "just one more chapter"
+
+critical hit:
++ hyperfocus
++ 
+
+loot:
++ random fantasy lore
++ obscure tech knowledge
++ a bag of snacks
++ my Sleep Token playlist
+
+---
+
+## 💾 Tech Stack
+
+C# • .NET • Entity Framework Core • SQL  
+Python • JavaScript • HTML • CSS  
+XML • Git • GitHub • Kanban  
+Rider • PyCharm • VS Code
+
+---
+
+## 🌲 Currently Building
+
+🚀 EN-16931 E-Invoice Module Showcase  
+👾 Space Invaders  
+🐍 Python Projects  
+🗄️ SQL Projects
+
+---
+
+## 🏮 Somewhere Between
+
+🌸 Totoro's Forest
+👻 Neo-Tokyo
+🌆 Night City
+⚔️ Kaer Morhen
+🍃 The Shire
+🌺 The Nine Valleys
+🐈 The Pet Sematary
+
+---
+
+> The forest watches in silence. So do I. And so does the code.
